@@ -1,3 +1,5 @@
+> Based on [https://github.com/tidwall/summitdb](https://github.com/tidwall/summitdb) - studied and extended.
+
 <p align="center">
 <img 
     src="resources/logo.png" 
